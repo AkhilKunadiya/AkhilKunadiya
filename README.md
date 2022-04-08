@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/KunadiyaAkhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imjp19_" height="30" width="40" /></a>
+ <a href="https://twitter.com/KunadiyaAkhil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imjp19_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akhil-kunadiya-1229531a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imjp19" height="30" width="40" /></a>
 <a href="https://www.facebook.com/AkhilKunadiya.Patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imjp19" height="30" width="40" /></a>
 <a href="https://instagram.com/akhil.kunadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imjp.dev" height="30" width="40" /></a>
