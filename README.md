@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil.</h1>
-<h3 align="center">I am 3rd year undergrad computer engineering student. I am Full stack developer in MERN Stack.</h3>
+<h3 align="center">I am last year undergrad computer engineering student. I am Full stack developer in MERN Stack.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AkhilKunadiya&label=Profile%20views&color=0e75b6&style=flat" alt="AkhilKunadiya" /> </p>
 
